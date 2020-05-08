@@ -10,7 +10,7 @@ The Android App has two activities -
 
 2. Google Maps Location Tracing. This is meant to monitor the user's movements, and makes a note of the places where a user spends more than 15 minutes - while shopping, eating, buying groceries etc. It also plots those locations on a map with a colored marker displaying how crowded that location was by pulling the bluetooth scanning data. The map also plots the road traffic activity to help a user understand if they should go out and travel during this time.
 
-![Crowds on the Map](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screenshot_20200508-073420_SocialSafety.jpg) ![Crowds on the Map](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screenshot_20200508-073002_SocialSafety.jpg)
+![Crowds on the Map](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screenshot_20200508-073420_SocialSafety.jpg)
 
 
 
