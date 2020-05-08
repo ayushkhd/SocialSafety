@@ -1,5 +1,6 @@
 # SocialSafety
 Social Distancing Android App with Cough Detection
+GitHub - https://github.com/ayushkhd/SocialSafety
 
 I really enjoyed working on this project! I'm quite passionate about working on projects which can positively impact lives, and augmenting the social distancing aspect is something that is quite essential to recover from this pandemic. 
 
@@ -34,5 +35,6 @@ Cough Detection - The RandomForrestClassifier gave us an accuracy of 91%. Used M
 Thanks for sharing the dataset! 
 
 https://github.com/Forsad/FluSense-data
-author = {Al Hossain, Forsad and Lover, Andrew A. and Corey, George A. and Reich, Nicholas G. and Rahman, Tauhidur},
-title = {FluSense: A Contactless Syndromic Surveillance Platform for Influenza-Like Illness in Hospital Waiting Areas}
+
+author = Al Hossain, Forsad and Lover, Andrew A. and Corey, George A. and Reich, Nicholas G. and Rahman, Tauhidur,
+title = FluSense: A Contactless Syndromic Surveillance Platform for Influenza-Like Illness in Hospital Waiting Areas
