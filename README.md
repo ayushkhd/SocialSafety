@@ -4,7 +4,8 @@ Social Distancing Android App with Cough Detection
 I really enjoyed working on this project! I'm quite passionate about working on projects which can positively impact lives, and augmenting the social distancing aspect is something that is quite essential to recover from this pandemic. 
 
 Demo App Video - https://github.com/ayushkhd/SocialSafety/blob/master/Demo.mp4
-Cough Demo - 
+
+Cough Demo - https://github.com/ayushkhd/SocialSafety/blob/master/Cough%20Detection%20Demo.mp4
 
 
 The Android App has two activities - 
@@ -24,7 +25,7 @@ Cough Detection - The RandomForrestClassifier gave us an accuracy of 91%. Used M
 
 ![power spectral density](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screen%20Shot%202020-05-08%20at%208.48.27%20AM.png)
 
-![Spectral Flatness(https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screen%20Shot%202020-05-08%20at%208.48.41%20AM.png)
+![Spectral Flatness](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screen%20Shot%202020-05-08%20at%208.48.41%20AM.png)
 
 ![Overall Feature Importance](https://github.com/ayushkhd/SocialSafety/blob/master/Screenshots/Screen%20Shot%202020-05-08%20at%208.47.51%20AM.png)
 
@@ -33,10 +34,5 @@ Cough Detection - The RandomForrestClassifier gave us an accuracy of 91%. Used M
 Thanks for sharing the dataset! 
 
 https://github.com/Forsad/FluSense-data
-@article{10.1145/3381014,
 author = {Al Hossain, Forsad and Lover, Andrew A. and Corey, George A. and Reich, Nicholas G. and Rahman, Tauhidur},
-title = {FluSense: A Contactless Syndromic Surveillance Platform for Influenza-Like Illness in Hospital Waiting Areas},
-year = {2020},
-issue_date = {March 2020},
-publisher = {Association for Computing Machinery},
-url = {https://doi.org/10.1145/3381014},
+title = {FluSense: A Contactless Syndromic Surveillance Platform for Influenza-Like Illness in Hospital Waiting Areas}
