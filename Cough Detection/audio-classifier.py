@@ -10,7 +10,7 @@ from feature_extractor_manager import get_combined_feature_vector
 import os
 
 # TODO: Replace the string with your user ID
-user_id = "noVAR"
+user_id = "ayushkhd"
 
 # Load the classifier:
 output_dir = 'training_output'
